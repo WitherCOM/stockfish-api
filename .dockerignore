@@ -1,0 +1,6 @@
+.venv
+.dockerignore
+Dockerfile
+.gitignore
+README.md
+stockfish.exe
